@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 79.374999 79.374999"
+   version="1.1"
+   id="svg1591"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="flykite-logo-bl.svg">
+  <defs
+     id="defs1585" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="255.62595"
+     inkscape:cy="169.67378"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g978-5"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1588">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.18644304,0,0,0.18331924,-199.36274,108.67564)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#00006f;stroke-width:15.1366;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="g978-5">
+      <path
+         sodipodi:nodetypes="sccsccscsssss"
+         id="path914-8"
+         d="m 1370.5771,-204.17083 c 1.0316,-3.4004 3.9371,-12.9833 6.4566,-21.2954 6.2175,-37.19576 8.1653,-83.61063 -3.0433,-115.0526 -12.0274,-33.3949 -25.5926,-54.8385 -49.7645,-78.6668 -25.5746,-25.2109 -48.5488,-39.6042 -79.9081,-50.0623 -39.0482,-9.45066 -82.8068,-12.50593 -119.1326,-1.2804 -11.1167,3.4864 -20.9054,5.6457 -21.7527,4.7984 -3.0288,-3.0289 19.7864,-32.3232 39.2767,-50.4304 34.219,-31.7909 66.5752,-47.0866 111.3363,-52.6318 82.5089,-10.2216 162.7624,33.3137 200.73,108.8907 31.642,62.9853 25.8921,141.8687 -14.6516,201.0064 -11.198,16.3334 -34.809,39.5064 -52.1567,51.1891 -16.8424,11.3423 -19.9505,11.9741 -17.3901,3.5351 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.1366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.1366;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1274.3794,-188.37103 c 22.3831,-59.78229 12.6334,-111.96141 -28.4953,-152.50246 -18.6803,-18.41347 -39.6479,-30.64367 -60.9589,-35.55672 -20.2003,-4.657 -55.021,-3.49685 -74.1995,2.47218 -9.5154,2.9615 -17.8062,4.87898 -18.4241,4.26107 -0.6179,-0.61791 5.7832,-8.03012 14.2246,-16.47157 18.5083,-18.50831 47.2321,-32.92485 73.9054,-37.09335 53.9758,-8.43533 112.8263,22.7427 136.4802,72.30505 26.5445,55.61904 13.1951,115.7441 -35.4886,159.83801 -7.1966,6.51814 -8.6708,7.09322 -7.0438,2.74779 z"
+         id="path916-3" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.1366;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1206.2767,-187.49908 c 4.5219,-17.76837 2.3377,-52.04686 -4.1842,-65.6649 -8.0798,-16.8709 -24.9393,-33.91955 -42.3815,-42.85689 -21.3244,-8.67375 -44.4397,-10.53481 -67.8957,-5.57476 -7.4085,1.67512 -2.9634,-2.49614 3.4694,-10.09489 17.039,-15.98555 34.426,-21.86009 60.6245,-20.48318 24.0915,1.26617 42.2536,9.40432 58.6587,26.28398 20.2332,20.81843 28.9389,57.07551 20.3023,84.55439 -4.1582,13.23001 -18.2441,35.03952 -25.5961,39.63091 -4.9889,3.1156 -5.174,2.75775 -2.9974,-5.79466 z"
+         id="path918-4"
+         sodipodi:nodetypes="sscccsssss" />
+    </g>
+  </g>
+</svg>
