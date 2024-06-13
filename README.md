@@ -11,3 +11,29 @@ My first React project, an e-commerce platform powered by Firebase integration a
    - npm install
 
  
+## Key Features
+- **Home:**
+  Display of products with their prices, quantities, ratings, descriptions, and a detailed cart.
+- **Cart:**
+  Display of selected products with their respective quantities. At the end, the total is displayed along with the option to purchase.
+- **Order:**
+  Once data is completed and the purchase is accepted, display the order with its respective details and ID.
+
+
+## Stack
+- React
+- Material UI
+- Js
+
+## Libraries
+- React Text Transition
+ 
+  
+## Contact
+- **Email:**
+
+  franco.sassi97@gmail.com
+
+- **Linkedin:**
+
+  <a href="https://www.linkedin.com/in/sassifranco/">Franco Sassi </a>
