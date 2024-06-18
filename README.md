@@ -1,5 +1,9 @@
 # E-commerce store
+ <a href="https://react-firebase-project-zeta.vercel.app/">
+ <img src="https://i.imgur.com/DxTmnqr.png" alt="Fondo" width="100%" />
+</a>
 
+## Description
 My first React project, an e-commerce platform powered by Firebase integration and the Fake Store API.
 
 ## Installation
